@@ -1,4 +1,4 @@
-You can directly access the administration console:
+You can directly access the administration console :
 ![zimbra](https://github.com/NidhalGhazouani/Zimbra-platform/assets/86621140/e624b56f-d174-41ed-91f4-ef5e38104fce)
 
 ![image](https://github.com/NidhalGhazouani/Zimbra-platform/assets/86621140/d01403c8-9c0a-4415-950a-94d80328ce67)
